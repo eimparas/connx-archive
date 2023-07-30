@@ -1,0 +1,64 @@
+OVERVIEW
+The ADSL wireless Router combines 802.11g Wireless Access Point , ADSL2+ modem, router, four-ports switch, it offers quick access to the wired and wireless network.
+The device supports downstream rate up to 12/24 Mbps with capability of ADSL2/ADSL2+, and upstream rate up to 1Mbps.
+
+ADSL COMPLIANCE
+• Full-rate ANSI T1.413 Issue 2
+• ITU G.992.1 (G.dmt) Annex A and B
+• Splitterless ITU G.992.2 (G.lite) specification
+• ITU G.994.1 (G.hs)
+• ITU G.992.3 (G.dmt.bis / ADSL2)
+• ITU G.992.5 (ADSL2plus)
+• Supports splitterless ADSL implementation
+• Supports Dying Gasp
+• ATM SUBSYSTEM
+• PPP over ATM (RFC 2364)
+• Bridged IP over ATM (RFC 1483)
+• PPP over Ethernet (RFC 2516)
+• Multiprotocol Encapsulation over AAL5 (RFC 2684)
+• Supports up to 8 Virtual Channel Connections (VCCs)
+• Supports UBR, CBR, and VBR service classes
+• ATM Forum UNI 3.1/4.0 PVC
+• Support OAM F4/F5 look-back, AIS and RDI OAM cells
+
+FEATURES
+• IP Alias
+• User Datagram Protocol (UDP)
+• Transmission Control Protocol (TCP)
+• Internet Control Message Protocol (ICMP)
+• Internet Group Management Protocol (IGMP)
+• PPP over PAP (RFC1334)
+• PPP over CHAP (RFC1994)
+• MIB II support (RFC1213)
+• Transparent bridging as specified in IEEE 802.1D
+• NAT (Network Address Translation)
+• Dynamic Host Configuration Protocol (DHCP)
+• Dynamic DNS support
+• Routing Information Protocol (RIP) v1 and v2 MANAGEMENT
+• TFTP client and server
+• DHCP client and server
+• FTP server and client
+• Universal Plug and Play (UPnP) support
+• Web-based Graphical User Interface (GUI) enabling end-user device
+configuration via HTTP
+• Update of boot image or configuration data via TFTP/ FTP
+• Syslog
+• Built-in Diagnostic Tools
+• SNMP MIB support
+• WIRELESS 802.11g
+• Compliant 802.11g and 802.11b
+• 2.4 GHz – 2.48GHz frequency range
+• Supports 64/128 bits WEP and WPA
+• 54 Mbps wireless operation rate
+• Supports Quality of Service (QoS) – 802.11e
+
+ETHERNET INTERFACE
+• IEEE 802.3
+• 10/100 Mbps
+• Ethernet interface supporting up to 64 LAN hosts
+
+USB SLAVE INTERFACE
+• 1.1 slave interface
+• Compatible with 2.0 root hubs
+• Simultaneous operation with Ethernet interface
+• Driver for WIN 98, 2000, ME, XP
